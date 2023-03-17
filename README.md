@@ -1,5 +1,1 @@
-- 👋 Hi, I’m AMRITRAJ PATRA
-- 👀 I’m interested in ...cyber security, web development, java development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate ...
-- 📫 to reach me ... amritrajpatra578@gmail.com 
+
